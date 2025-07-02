@@ -73,11 +73,6 @@ pytest -m e2e
 pytest tests/smoke/test_smoke_image.py
 ```
 
-### 🔍 Run Test by Keyword
-```bash
-pytest -k "breed"
-```
-
 ## 🧪 Run Example with tag and file name
 
 ```bash
