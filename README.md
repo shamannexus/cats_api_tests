@@ -79,7 +79,6 @@ pytest tests/smoke/test_smoke_image.py
 pytest -m regression -k "test_get_bengal_images_with_detailed_validation"
 ```
 ---
----
 
 ## 📄 Generate HTML Report
 
