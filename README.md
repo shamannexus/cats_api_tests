@@ -125,8 +125,8 @@ cat_api_tests/
 | Type       | Description                                               |
 |------------|-----------------------------------------------------------|
 | Smoke      | Basic image retrieval test for API availability           |
-| Regression | Validates `/breeds` returns consistent and expected data  |
-| E2E        | Complete flow: retrieve breed list → fetch image by breed |
+| Regression | Validates `/breeds` returns consistent and expected data (schema and data validation)  |
+| E2E        | Complete flow: retrieve breed list -> fetch image by breed |
 
 ---
 
