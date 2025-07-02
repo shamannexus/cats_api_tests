@@ -18,8 +18,8 @@ This project is a sample test suite using **Pytest** and **Requests** to validat
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/cat-api-tests.git
-cd cat-api-tests
+git clone https://github.com/shamannexus/cats_api_tests.git
+cd cats_api_tests
 ```
 
 2. **Create and activate a virtual environment**
