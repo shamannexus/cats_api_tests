@@ -73,7 +73,7 @@ pytest -m e2e
 pytest tests/smoke/test_smoke_image.py
 ```
 
-## 🧪 Run Example with tag and file name
+### 🧪 Run Example with tag and file name
 
 ```bash
 pytest -m regression -k "test_get_bengal_images_with_detailed_validation"
